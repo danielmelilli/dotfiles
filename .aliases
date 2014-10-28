@@ -1,7 +1,10 @@
+#git
+
 alias grep='grep --color=auto'
 alias h="history"
 alias c="clear"
 alias svim="sudo vim"
 alias ping="ping -c 1"
-
+alias pbcopy="xclip -selection clipboard"
+alias pbpaste="xclip -selection clipboard -o"
 
