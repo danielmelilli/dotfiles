@@ -7,4 +7,5 @@ alias svim="sudo vim"
 alias ping="ping -c 1"
 alias pbcopy="xclip -selection clipboard"
 alias pbpaste="xclip -selection clipboard -o"
+alias sr="sudo rsh"
 
