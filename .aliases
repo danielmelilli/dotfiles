@@ -1,6 +1,6 @@
 #git
 
-alias vim='vi'
+alias vi=vim
 alias grep='grep --color=auto'
 alias h="history"
 alias c="clear"
@@ -9,4 +9,9 @@ alias ping="ping -c 1"
 alias pbcopy="xclip -selection clipboard"
 alias pbpaste="xclip -selection clipboard -o"
 alias sr="sudo rsh"
+alias diff="colordiff"
+alias mount="mount|column -t"
+alias fastping='ping -c 2 -s.2'
+alias ports='netstat -tulanp'
+
 
