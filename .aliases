@@ -1,5 +1,6 @@
 #git
 
+alias vim='vi'
 alias grep='grep --color=auto'
 alias h="history"
 alias c="clear"
